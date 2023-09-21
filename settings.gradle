@@ -1,0 +1,10 @@
+rootProject.name = 'graphledge'
+
+include 'graphledge-ui'
+include 'graphledge-ui-viewmodel'
+include 'graphledge-ui-view'
+include 'graphledge-domain-model'
+include 'graphledge-domain-service'
+include 'graphledge-persistence'
+include 'graphledge-application-service'
+
