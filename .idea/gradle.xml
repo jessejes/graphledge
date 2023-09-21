@@ -8,6 +8,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/graphledge-application-service" />
+            <option value="$PROJECT_DIR$/graphledge-domain-model" />
+            <option value="$PROJECT_DIR$/graphledge-domain-service" />
+            <option value="$PROJECT_DIR$/graphledge-persistence" />
+            <option value="$PROJECT_DIR$/graphledge-ui" />
+            <option value="$PROJECT_DIR$/graphledge-ui-view" />
+            <option value="$PROJECT_DIR$/graphledge-ui-viewmodel" />
           </set>
         </option>
       </GradleProjectSettings>
