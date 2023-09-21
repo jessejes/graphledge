@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/graphledge-application-service" />
+            <option value="$PROJECT_DIR$/graphledge-commons" />
             <option value="$PROJECT_DIR$/graphledge-domain-model" />
             <option value="$PROJECT_DIR$/graphledge-domain-service" />
             <option value="$PROJECT_DIR$/graphledge-persistence" />
